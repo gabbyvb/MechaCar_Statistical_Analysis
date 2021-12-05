@@ -98,10 +98,13 @@ mean of x
 ## Study Design: MechaCar vs Competition
 What metric or metrics are you going to test?
 - Cost & Safety Rating
+
 What is the null hypothesis or alternative hypothesis?
 - H0 : The slope of the linear model is zero
 - Ha : The slope of the linear model is not zero
+
 What statistical test would you use to test the hypothesis? And why?
 - I would use a simple linear regression to determine if we can predict safety rating based on the cost of the car.
+
 What data is needed to run the statistical test?
 - The cost and safet rating of various vehicles.
